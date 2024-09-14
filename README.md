@@ -1,6 +1,3 @@
-Here’s a detailed **README** file for your **Salon Booking System Using Queue** project:
-
----
 
 # **Salon Booking System Using Queue**
 
@@ -24,8 +21,8 @@ This project implements a **Salon Booking System** using the **Queue** data stru
 ---
 
 ## **Project Demo**
-📽️ **Watch the demo on YouTube**: [YouTube Video Link]  
-💻 **GitHub Repository**: [GitHub Repository Link]
+📽️ **Watch the demo on YouTube**: https://www.youtube.com/watch?v=sTlzeLjV-iU  
+
 
 ---
 
@@ -37,13 +34,8 @@ git clone [GitHub Repository URL]
 cd salon-booking-system
 ```
 
-### **2. Install the Dependencies**
-Install required Python libraries:
-```bash
-pip install -r requirements.txt
-```
 
-### **3. Run the System**
+### **2. Run the System**
 Execute the Python script to launch the Salon Booking System:
 ```bash
 python salon_booking_system.py
@@ -61,41 +53,13 @@ The system uses the **Queue** data structure to manage customer bookings. Custom
 
 ## **Code Structure**
 - `salon_booking_system.py`: The main file containing the logic for the queue and the Tkinter-based user interface.
-- `requirements.txt`: A list of dependencies required for the project.
 
 ---
 
 ## **Screenshots**
 ### Booking Interface  
-(Add screenshots or placeholders for your Tkinter UI)
+![Screenshot 2024-09-12 130625](https://github.com/user-attachments/assets/6f44bb5f-64cd-4d6c-9eec-39ac526c42b2)
 
 ---
 
-## **Contributing**
-Contributions are welcome! If you have suggestions for improvements, feel free to:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch`
-3. Commit your changes: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin feature-branch`
-5. Open a pull request.
 
----
-
-## **Credits**
-Special thanks to **[Teacher's Name]** for guiding and supporting me throughout the development of this project. Your mentorship was invaluable!
-
----
-
-## **License**
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
-### **Contact**
-For any questions or feedback, feel free to reach out:  
-**LinkedIn**: [Your LinkedIn Profile]  
-**GitHub**: [Your GitHub Profile]
-
----
-
-This **README** file provides a complete overview of the project, installation instructions, and contributions guidelines. You can modify the placeholders (like the teacher’s name, video link, and GitHub link) as needed!
